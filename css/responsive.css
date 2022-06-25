@@ -1,0 +1,30 @@
+@media (max-width: 768px) {
+    .navigation {
+        display: none;
+    }
+    .burger {
+        display: block;
+    }
+    .forms-div{
+        flex-direction: column;
+        margin: 0 auto;
+        margin-left: 150px;
+        margin-top: 35px;
+    }
+    .describtion-div{
+        margin-left: 15px;
+        margin-bottom: 15px;
+    }
+    .photo-div{
+        flex-direction: column;
+    }
+    .middle-box3{
+        margin-right: 350px;
+    }
+    .middle-box2{
+        padding-right: 70px;
+    }
+    .middle-box1{
+        padding-right: 20px;
+    }
+}
